@@ -1,0 +1,24 @@
+{
+  "name": "lowercase_demo",
+  "version": "0.0.1",
+  "description": "A demo package of lowercase",
+  "keywords":[
+  	"demo","lowercase"
+  ],
+  "main": "lowercase.js",
+  "repository":{
+  	"type":"git"
+  },
+  "engines":{
+  	"node":">=v6.3.0"
+  },
+  "readmeFilename":"README.md",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZERO",
+  "license": "MIT"
+}
